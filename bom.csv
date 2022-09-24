@@ -1,0 +1,13 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+J5,Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical,1,Thonkiconn,
+J3,Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical,1,Thonkiconn,
+J1,Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical,1,Thonkiconn,
+J4,Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical,1,Thonkiconn,
+J2,Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical,1,Thonkiconn,
+D1,D_DO-35_SOD27_P7.62mm_Horizontal,1,BAT42,
+D2,D_DO-35_SOD27_P7.62mm_Horizontal,1,BAT42,
+SW2,submini_switch_3_pin,1,SPDT_ON-OFF-ON,
+SW1,submini_switch_3_pin,1,SPDT_ON-ON,
+R3,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,1,100K,
+R2,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,1,1K,
+R1,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,1,1K,

@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "trigger_warning")(type "KiCad")(uri "C:/Users/mzour/Desktop/syntaky/my_modules/trigger_warning/TW_PCB_1V1.pretty")(options "")(descr ""))
+)
