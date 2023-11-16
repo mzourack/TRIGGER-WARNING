@@ -31,10 +31,6 @@ The module is trivial to build - only 12 components are soldered.
 
 Allign the jacks and switches with the pcb and panel as best as possible before soldering. Edges of the plastic body of the jacks can protrude from the 2HP contour of the module if you don't.
 
-**Disclaimer**
-
-This is a personal project of mine, I am not an electrical engineer, but a hobbyist. Build and use this module at your own risk!
-
 **License**
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
